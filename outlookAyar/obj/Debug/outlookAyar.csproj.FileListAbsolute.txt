@@ -1,0 +1,7 @@
+C:\Users\ramazan\Documents\SharpDevelop Projects\outlookAyar\outlookAyar\bin\Debug\outlookAyar.exe
+C:\Users\ramazan\Documents\SharpDevelop Projects\outlookAyar\outlookAyar\bin\Debug\outlookAyar.pdb
+C:\Users\ramazan\Documents\SharpDevelop Projects\outlookAyar\outlookAyar\obj\Debug\outlookAyar.csprojResolveAssemblyReference.cache
+C:\Users\ramazan\Documents\SharpDevelop Projects\outlookAyar\outlookAyar\obj\Debug\outlookAyar.exe
+C:\Users\ramazan\Documents\SharpDevelop Projects\outlookAyar\outlookAyar\obj\Debug\outlookAyar.pdb
+C:\Users\ramazan\Documents\SharpDevelop Projects\outlookAyar\outlookAyar\obj\Debug\outlookAyar.MainForm.resources
+C:\Users\ramazan\Documents\SharpDevelop Projects\outlookAyar\outlookAyar\obj\Debug\outlookAyar.csproj.GenerateResource.Cache
